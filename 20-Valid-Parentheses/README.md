@@ -1,18 +1,18 @@
 #  20. Valid Parentheses
 
-Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+Given a string containing just the characters**'(', ')', '{', '}', '[' and ']'**, determine if the input string is valid.
 
-The brackets must close in the correct order, "()" and "()[]{}" are all valid but "(]" and "([)]" are not.
+The brackets must close in the correct order, *"()" and "()[]{}"* are all valid but* "(]"* and *"([)]"* are not.
 
 Subscribe to see which companies asked this question
 
-## ½âÌâË¼Â·£º Ê¹ÓÃ¶ÑÕ»
+## è§£é¢˜æ€è·¯ï¼š ä½¿ç”¨æ ˆ
 
-Ã¿´ÎÖ»ÓĞÓÒ±ßµÄÀ¨ºÅ²ÅÄÜ½øĞĞÆ¥ÅäÏû³ı£¬×ó±ßÀ¨ºÅÖ»Ğè¼ÓÈë¶ÑÕ»¼´¿É£¬×îºóÅĞ¶Ï¶ÑÕ»ÊÇ·ñÎª¿Õ¼´¿É
+æ¯æ¬¡åªæœ‰å³è¾¹çš„æ‹¬å·æ‰èƒ½è¿›è¡ŒåŒ¹é…æ¶ˆé™¤ï¼Œå·¦è¾¹æ‹¬å·åªéœ€åŠ å…¥æ ˆå³å¯ï¼Œæœ€ååˆ¤æ–­æ ˆæ˜¯å¦ä¸ºç©ºå³å¯
 
 
-### º¯ÊıËµÃ÷
+### å‡½æ•°è¯´æ˜
 
-*public boolean isVaild(String s)* Ô­ÏÈË¼Â·
+*public boolean isVaild(String s)* åŸå…ˆæ€è·¯
 
-*solutions* ÕûÀíºóµÄ´úÂë 
+*solutions(String s)* æ•´ç†åçš„ä»£ç  
