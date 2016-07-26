@@ -5,15 +5,15 @@ Write a program to find the node at which the intersection of two singly linked 
 
 For example, the following two linked lists:
 
-A:          a1 ¡ú a2
+A:       a1 â†’ a2;
 
-                   ¨K
-				   
-                     c1 ¡ú c2 ¡ú c3
-					 
-                   ¨J            
-				   
-B:     b1 ¡ú b2 ¡ú b3
+ 		â†˜
+ 		
+	      	    c1 â†’ c2 â†’ c3
+	      	    
+		â†—  
+		
+B:  b1 â†’ b2 â†’ b3
 
 begin to intersect at node c1.
 
@@ -25,4 +25,4 @@ Notes:
 - You may assume there are no cycles anywhere in the entire linked structure.
 - Your code should preferably run in O(n) time and use only O(1) memory.
 
-**×îºóÖØ¸´µÄÁ´±íÔªËØµÄ³¤¶ÈÏàÍ¬£¬ËùÒÔÖ»ÒªÈÃ³¤Á´±íÏÈ×ß²îÖµ¸öÊıµÄ²½³¤¼´¿É**
+**æœ€åé‡å¤çš„é“¾è¡¨å…ƒç´ çš„é•¿åº¦ç›¸åŒï¼Œæ‰€ä»¥åªè¦è®©é•¿é“¾è¡¨å…ˆèµ°å·®å€¼ä¸ªæ•°çš„æ­¥é•¿å³å¯**
